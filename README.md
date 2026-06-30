@@ -225,51 +225,6 @@ Potential extensions include
 
 ---
 
-## How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/nonlinear-system-modelling-control.git
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the simulation
-
-```bash
-python main.py
-```
-
-Train the neural network
-
-```bash
-python train.py
-```
-
-Run Model Predictive Control
-
-```bash
-python mpc.py
-```
-
----
-
-## Repository Highlights
-
-* Physics-informed modelling
-* Data-driven system identification
-* Hybrid machine learning framework
-* Predictive control implementation
-* Research-oriented project structure
-* Modular and extensible codebase
-
----
-
 ## Authors
 
 * **Benedikt Hartmann**
