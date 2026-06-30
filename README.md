@@ -37,46 +37,6 @@ The rotary pendulum platform modelled in this project behaves as shown below. Th
 
 ---
 
-## Project Structure
-
-```text
-.
-├── Data/
-│   ├── Experimental datasets
-│   └── Processed datasets
-│
-├── Physics_Model/
-│   ├── Nonlinear system equations
-│   ├── RK4 integration
-│   └── Simulation scripts
-│
-├── Neural_Network/
-│   ├── Training scripts
-│   ├── Recursive prediction
-│   ├── One-step prediction
-│   └── Saved models
-│
-├── Hybrid_Model/
-│   ├── Physics + Neural Network
-│   └── Residual learning
-│
-├── MPC/
-│   ├── Cost function
-│   ├── Prediction model
-│   ├── Control optimization
-│   └── Closed-loop simulation
-│
-├── Results/
-│   ├── Prediction plots
-│   ├── MPC performance
-│   └── Comparison figures
-│
-├── pendulum.gif
-└── README.md
-```
-
----
-
 ## System Description
 
 The nonlinear system consists of
