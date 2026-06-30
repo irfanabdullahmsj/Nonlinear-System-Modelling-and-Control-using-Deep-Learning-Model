@@ -1,0 +1,2 @@
+# Nonlinear-System-Modelling-and-Control-using-Deep-Learning-Model
+Nonlinear rotary pendulum modelling and control project combining physics-based equations, neural networks, and hybrid grey-box learning. Implements RK4 integration, recursive prediction, and Model Predictive Control (MPC) for reference tracking, comparing open-loop and closed-loop pendulum dynamics through simulation and experimental validation
